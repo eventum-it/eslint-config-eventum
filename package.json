@@ -2,6 +2,7 @@
   "name": "eslint-config-eventum",
   "version": "1.0.0",
   "description": "Strict and elegant style guide for React Applications",
+  "repository": "eventum-it/eslint-config-eventum",
   "main": "index.js",
   "author": "Ahmed Ghoneim",
   "license": "MIT",
